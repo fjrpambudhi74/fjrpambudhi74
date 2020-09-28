@@ -1,16 +1,12 @@
-### Hi there 👋
+# Hello World :globe_with_meridians:, I'm Fajar Pambudhi - [fjrpambudhi74](https://fjrpambudhi74.github.io/myportofolio/)
+:clap: Hey i'm a Web Developer especially Frontend Developer. I love write code and open source about Javascript, Vue JS, React, NodeJS. And i'm keep exploring and learning about web development to become a Fullstack developer.
 
-<!--
-**fjrpambudhi74/fjrpambudhi74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
+## :zap: About Me
+- 🔭 I’m currently working on PT Dimancy Kaliber Internasional
+- :mortar_board: Studying Informatics Enginering at Institut Teknologi Indonesia
+- 🌱 I’m currently learning Javascript framework Vue JS and Backend languages to become Fullstack Developer
+- :bulb:  I love innovation and new technologies
+- 🤔 I’m looking for new challenge for a new jobs 
+- 📫 You contact me fjrpambudhi@hotmail.com or find in https://id.linkedin.com/in/fajar-pambudhi-4ba044175 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
