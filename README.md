@@ -1,4 +1,4 @@
-# Hello World :globe_with_meridians:, I'm Fajar Pambudhi - [fjrpambudhi74](https://fjrpambudhi74.github.io/myportofolio/) <img align="right" width="150" height="150" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif">
+# Hello World :globe_with_meridians:, I'm Fajar Pambudhi - [fjrpambudhi74](https://fjrpambudhi74.github.io/portofolio_v1/) <img align="right" width="150" height="150" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif">
 :clap: Hey i'm a Web Developer especially Frontend Developer. I love write code and open source about Javascript, Vue JS, React, NodeJS. And i'm keep exploring and learning about web development to become a Fullstack developer. 
 
 ---
