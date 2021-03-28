@@ -3,10 +3,9 @@
 
 ---
 ## :zap: About Me
-- 🔭 I’m currently working on PT Dimancy Kaliber Internasional
+- 🔭 I’m currently working on PT Fintek Integrasi Digital (Fintax)
 - :mortar_board: Studying Informatics Enginering at Institut Teknologi Indonesia
 - 🌱 I’m currently learning Javascript framework Vue JS, React JS and Backend languages to become Fullstack Developer
 - :bulb:  I love innovation and new technologies
-- 🤔 I’m looking for new challenge for a new jobs 
 - 📫 You can contact me fjrpambudhi@hotmail.com or find in https://id.linkedin.com/in/fajar-pambudhi-4ba044175 
 
